@@ -20,7 +20,7 @@ class Enemy:
         self.imgs = []
         self.flipped = False
         self.max_health = 0
-        self.speed_increase = 1.2
+        self.speed_increase = 1.
 
     def draw(self, win):
         """
