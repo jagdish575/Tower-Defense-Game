@@ -22,6 +22,7 @@ class Button:
     def click(self, X, Y):
         """
         returns if the positon has collided with the menu
+        add new menu list
         :param X: int
         :param Y: int
         :return: bool
